@@ -16,8 +16,7 @@ Berikut adalah diagram alur kerja dari task-task utama dalam sistem ini:
 
 ### Foto Hardware
 Berikut adalah foto perangkat keras yang digunakan dalam proyek ini, yang mencakup **STM32**, **OLED**, dan dua tombol fisik:
-
-![Foto Hardware](https://link-to-hardware-photo.com)
+![Task 1](https://github.com/user-attachments/assets/468b870a-becb-413b-b033-0150d3c2a16e)
 
 ## Demo Video/GIF
 Berikut adalah demo video proyek ini yang menunjukkan cara kerja sistem dalam membaca nilai tegangan dan menampilkannya di OLED, serta bagaimana pengguna dapat berinteraksi melalui tombol dan UART.
